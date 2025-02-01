@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Launch movieView",
+        "request": "launch",
+        "mainClass": "DB.movieView",
+        "classPaths": [
+          "bin",
+          "lib/mysql-connector-java-8.0.33.jar"
+        ]
+      }
+    ]
+  }
+  
